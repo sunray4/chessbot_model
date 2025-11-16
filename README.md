@@ -2,6 +2,9 @@
 
 A chess playing neural network trained on expert games from the Lichess Elite Database.
 
+- Hugging Face: https://huggingface.co/AubreeL/chess-bot
+- Testing environment: https://github.com/sunray4/chessbot_deploy (play against the bot here!)
+
 ## Model description
 
 This is a policy-value neural network inspired by AlphaZero, designed to evaluate chess positions and suggest moves.
