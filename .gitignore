@@ -1,0 +1,5 @@
+Lichess Elite Database
+models
+__pycache__
+.pytest_cache
+.venv
